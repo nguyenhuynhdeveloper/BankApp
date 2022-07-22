@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104877182088",
+    "project_id": "pushnotification-79e74",
+    "storage_bucket": "pushnotification-79e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104877182088:android:866ec5f32f09169573a33d",
+        "android_client_info": {
+          "package_name": "com.bankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104877182088-i3qofcgaiv1n1ourhootkvack9uit3s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZGDNNU1JD-jpAGAbx6-bsPeczzCXZH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104877182088-i3qofcgaiv1n1ourhootkvack9uit3s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
