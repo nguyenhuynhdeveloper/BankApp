@@ -22,6 +22,8 @@ export default function Cart({ route, navigation }) {
   const [start, setStart] = useState('START')
   // Gọi hành động để nó di chuyển 
   useEffect(() => {
+
+    
     setTimeout(() => {    // Cái này chỉ để giúp sau 1s load được screen nó mới thực hiện để dev dễ nhìn 
       // Animated.timing( 
       //   topMotion , // Tham số đầu tiên là đại lượng thay đổi
