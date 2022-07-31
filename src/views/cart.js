@@ -24,6 +24,8 @@ export default function Cart({ route, navigation }) {
   useEffect(() => {
 
     
+
+    
     setTimeout(() => {    // Cái này chỉ để giúp sau 1s load được screen nó mới thực hiện để dev dễ nhìn 
       // Animated.timing( 
       //   topMotion , // Tham số đầu tiên là đại lượng thay đổi
